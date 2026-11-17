@@ -1,0 +1,2 @@
+# DeskLink PC Server requires Python 3.8+ standard library only.
+# No third-party pip packages are required for 100% offline execution.

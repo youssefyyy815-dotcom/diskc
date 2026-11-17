@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">DeskLink</string>
+    <string name="console_header_title">DeskLink Console</string>
+    <string name="offline_badge_label">LAN // REMOTE</string>
+
+    <!-- Navigation -->
+    <string name="nav_control">Control</string>
+    <string name="nav_terminal">Terminal</string>
+    <string name="nav_setup">PC Setup</string>
+
+    <!-- Control Screen -->
+    <string name="control_screen_subtitle">Windows PC power, media &amp; quick-action controller</string>
+    <string name="control_section_power">POWER &amp; SESSION</string>
+    <string name="control_section_media">AUDIO &amp; MEDIA DECK</string>
+    <string name="control_section_actions">CUSTOM QUICK ACTIONS</string>
+    <string name="action_lock">Lock Screen</string>
+    <string name="action_sleep">Sleep PC</string>
+    <string name="action_restart">Restart PC</string>
+    <string name="action_shutdown">Shut Down PC</string>
+    <string name="action_abort_power">Abort Pending Shutdown / Restart</string>
+    <string name="action_add_custom">Add Action</string>
+
+    <!-- Terminal Screen -->
+    <string name="terminal_screen_subtitle">Safe shell execution &amp; real-time output console</string>
+    <string name="terminal_section_presets">SAFE PRESET COMMANDS</string>
+    <string name="terminal_section_console">COMMAND RUNNER</string>
+    <string name="terminal_section_history">EXECUTION LOG</string>
+    <string name="terminal_run_button">Execute</string>
+    <string name="terminal_clear_log">Clear Log</string>
+
+    <!-- Setup Screen -->
+    <string name="setup_screen_subtitle">Target PC profile, Python backend &amp; network guide</string>
+    <string name="setup_section_target">TARGET PC CONNECTION</string>
+    <string name="setup_section_profiles">SAVED PC PROFILES</string>
+    <string name="setup_section_server">PYTHON PC SERVER BACKEND</string>
+    <string name="setup_section_docs">LAN &amp; REMOTE NETWORK GUIDE</string>
+    <string name="setup_connect_button">Connect &amp; Verify</string>
+    <string name="setup_disconnect_button">Pause Polling</string>
+    <string name="setup_save_profile">Save Profile</string>
+    <string name="setup_copy_script">Copy .py</string>
+    <string name="setup_export_script">Export .py</string>
+    <string name="setup_view_script">Inspect</string>
+    <string name="setup_open_web">Open Web UI</string>
+    <string name="setup_disclaimer_title">User Responsibility Notice</string>
+    <string name="setup_disclaimer_body">You assume full, sole responsibility for hosting, configuring, securing, and using this administrative tool on your personal private network.</string>
+</resources>

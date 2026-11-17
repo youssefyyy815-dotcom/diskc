@@ -1,0 +1,15 @@
+workflows:
+  android-workflow:
+    name: Android Build
+    instance_type: linux
+    max_build_duration: 60
+    environment:
+      java: 17
+    scripts:
+      - name: Generate Wrapper and Build
+        script: |
+          gradle wrapper
+          chmod +x gradlew
+          ./gradlew assembleDebug
+    artifacts:
+      - app/build/outputs/apk/debug/*.apk

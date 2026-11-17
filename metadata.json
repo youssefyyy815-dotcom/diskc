@@ -1,0 +1,6 @@
+{
+  "name": "DeskLink",
+  "description": "Local network and remote Windows PC management system with Python server backend, web dashboard, and mobile controller.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
